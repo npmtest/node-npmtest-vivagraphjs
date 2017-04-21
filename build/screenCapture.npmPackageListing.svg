@@ -1,143 +1,143 @@
 <svg height="2238" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2238" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 16:51:42 +0000   808902 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 16:51:42 +0000     4574 bytes  CHANGELOG</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 16:51:42 +0000     1428 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 16:51:42 +0000     8825 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 16:51:42 +0000      455 bytes  bower.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 16:51:42 +0000     1872 bytes  demos/other/constantLayout.html</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 16:51:42 +0000     2318 bytes  demos/other/customLinkLength.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 16:51:42 +0000      814 bytes  demos/other/d3layout/index.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 16:51:42 +0000     2546 bytes  demos/other/d3layout/index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 16:51:42 +0000    15471 bytes  demos/other/d3sampleTest.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 16:51:42 +0000     4003 bytes  demos/other/dynamic.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 16:51:42 +0000     3163 bytes  demos/other/dynamicNodeChange.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 16:51:42 +0000      349 bytes  demos/other/empty.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 16:51:42 +0000     4244 bytes  demos/other/graphInsideGraph.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 16:51:42 +0000     1959 bytes  demos/other/input-override/README.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 16:51:42 +0000      467 bytes  demos/other/input-override/index.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 16:51:42 +0000     1611 bytes  demos/other/input-override/index.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 16:51:42 +0000      410 bytes  demos/other/input-override/style.css</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 16:51:42 +0000      454 bytes  demos/other/mostly-fixed/README.md</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 16:51:42 +0000     1231 bytes  demos/other/mostly-fixed/index.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 16:51:42 +0000     1550 bytes  demos/other/physicsLayout.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 16:51:42 +0000     2500 bytes  demos/other/pinNode.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 16:51:42 +0000     3157 bytes  demos/other/precompute-advanced.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 16:51:42 +0000     1747 bytes  demos/other/precompute-naive.html</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 16:51:42 +0000      302 bytes  demos/other/remove-graph/README.md</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 16:51:42 +0000      804 bytes  demos/other/remove-graph/index.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 16:51:42 +0000      777 bytes  demos/other/remove-graph/index.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 16:51:42 +0000     1947 bytes  demos/other/resetScale.html</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 16:51:42 +0000      980 bytes  demos/other/svg-circle-images/README.md</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 16:51:42 +0000      560 bytes  demos/other/svg-circle-images/index.html</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 16:51:42 +0000     2824 bytes  demos/other/svg-circle-images/index.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 16:51:42 +0000     1938 bytes  demos/other/webGLRenderer.html</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 16:51:42 +0000     1318 bytes  demos/other/webgl-area-select/README.md</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 16:51:42 +0000     1005 bytes  demos/other/webgl-area-select/index.html</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 16:51:42 +0000     4105 bytes  demos/other/webgl-area-select/index.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 16:51:42 +0000      567 bytes  demos/other/webgl-clear-color/README.md</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 16:51:42 +0000    12417 bytes  demos/other/webgl-clear-color/clear.png</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 16:51:42 +0000   219611 bytes  demos/other/webgl-clear-color/dirty.png</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 16:51:42 +0000     1237 bytes  demos/other/webgl-clear-color/index.html</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 16:51:42 +0000     9540 bytes  demos/other/webglCustomNode.html</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 16:51:42 +0000     3637 bytes  demos/other/webglDOMLabels.html</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 16:51:42 +0000     4133 bytes  demos/other/webglDynamic.html</tspan>
-<tspan x="10" y="698"> 42.  2017-04-21 16:51:42 +0000     2220 bytes  demos/other/webglInput.html</tspan>
-<tspan x="10" y="714"> 43.  2017-04-21 16:51:42 +0000     2782 bytes  demos/other/zoomPanAPI.html</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 16:52:44 +0000   808902 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 16:52:44 +0000     4574 bytes  CHANGELOG</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 16:52:44 +0000     1428 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 16:52:44 +0000     8825 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 16:52:44 +0000      455 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 16:52:44 +0000     1872 bytes  demos/other/constantLayout.html</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 16:52:44 +0000     2318 bytes  demos/other/customLinkLength.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 16:52:44 +0000      814 bytes  demos/other/d3layout/index.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 16:52:44 +0000     2546 bytes  demos/other/d3layout/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 16:52:44 +0000    15471 bytes  demos/other/d3sampleTest.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 16:52:44 +0000     4003 bytes  demos/other/dynamic.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 16:52:44 +0000     3163 bytes  demos/other/dynamicNodeChange.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 16:52:44 +0000      349 bytes  demos/other/empty.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 16:52:44 +0000     4244 bytes  demos/other/graphInsideGraph.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 16:52:44 +0000     1959 bytes  demos/other/input-override/README.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 16:52:44 +0000      467 bytes  demos/other/input-override/index.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 16:52:44 +0000     1611 bytes  demos/other/input-override/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 16:52:44 +0000      410 bytes  demos/other/input-override/style.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 16:52:44 +0000      454 bytes  demos/other/mostly-fixed/README.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 16:52:44 +0000     1231 bytes  demos/other/mostly-fixed/index.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 16:52:44 +0000     1550 bytes  demos/other/physicsLayout.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 16:52:44 +0000     2500 bytes  demos/other/pinNode.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 16:52:44 +0000     3157 bytes  demos/other/precompute-advanced.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 16:52:44 +0000     1747 bytes  demos/other/precompute-naive.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 16:52:44 +0000      302 bytes  demos/other/remove-graph/README.md</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 16:52:44 +0000      804 bytes  demos/other/remove-graph/index.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 16:52:44 +0000      777 bytes  demos/other/remove-graph/index.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 16:52:44 +0000     1947 bytes  demos/other/resetScale.html</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 16:52:44 +0000      980 bytes  demos/other/svg-circle-images/README.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 16:52:44 +0000      560 bytes  demos/other/svg-circle-images/index.html</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 16:52:44 +0000     2824 bytes  demos/other/svg-circle-images/index.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 16:52:44 +0000     1938 bytes  demos/other/webGLRenderer.html</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 16:52:44 +0000     1318 bytes  demos/other/webgl-area-select/README.md</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 16:52:44 +0000     1005 bytes  demos/other/webgl-area-select/index.html</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 16:52:44 +0000     4105 bytes  demos/other/webgl-area-select/index.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 16:52:44 +0000      567 bytes  demos/other/webgl-clear-color/README.md</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 16:52:44 +0000    12417 bytes  demos/other/webgl-clear-color/clear.png</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 16:52:44 +0000   219611 bytes  demos/other/webgl-clear-color/dirty.png</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 16:52:44 +0000     1237 bytes  demos/other/webgl-clear-color/index.html</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 16:52:44 +0000     9540 bytes  demos/other/webglCustomNode.html</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 16:52:44 +0000     3637 bytes  demos/other/webglDOMLabels.html</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 16:52:44 +0000     4133 bytes  demos/other/webglDynamic.html</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 16:52:44 +0000     2220 bytes  demos/other/webglInput.html</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 16:52:44 +0000     2782 bytes  demos/other/zoomPanAPI.html</tspan>
 <tspan x="10" y="730">ls: cannot access demos/tutorial_svg/01: No such file or directory</tspan>
 <tspan x="10" y="746">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="762">ls: cannot access Create: No such file or directory</tspan>
 <tspan x="10" y="778">ls: cannot access Graph.html: No such file or directory</tspan>
-<tspan x="10" y="794"> 44.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/01 - Create Graph.html</tspan>
+<tspan x="10" y="794"> 44.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/01 - Create Graph.html</tspan>
 <tspan x="10" y="810">ls: cannot access demos/tutorial_svg/02: No such file or directory</tspan>
 <tspan x="10" y="826">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="842">ls: cannot access Create: No such file or directory</tspan>
 <tspan x="10" y="858">ls: cannot access Custom: No such file or directory</tspan>
 <tspan x="10" y="874">ls: cannot access Node.html: No such file or directory</tspan>
-<tspan x="10" y="890"> 45.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/02 - Create Custom Node.html</tspan>
+<tspan x="10" y="890"> 45.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/02 - Create Custom Node.html</tspan>
 <tspan x="10" y="906">ls: cannot access demos/tutorial_svg/03: No such file or directory</tspan>
 <tspan x="10" y="922">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="938">ls: cannot access Create: No such file or directory</tspan>
 <tspan x="10" y="954">ls: cannot access Custom: No such file or directory</tspan>
 <tspan x="10" y="970">ls: cannot access Link.html: No such file or directory</tspan>
-<tspan x="10" y="986"> 46.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/03 - Create Custom Link.html</tspan>
+<tspan x="10" y="986"> 46.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/03 - Create Custom Link.html</tspan>
 <tspan x="10" y="1002">ls: cannot access demos/tutorial_svg/04: No such file or directory</tspan>
 <tspan x="10" y="1018">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="1034">ls: cannot access Listen: No such file or directory</tspan>
 <tspan x="10" y="1050">ls: cannot access To: No such file or directory</tspan>
 <tspan x="10" y="1066">ls: cannot access Mouse: No such file or directory</tspan>
 <tspan x="10" y="1082">ls: cannot access Events.html: No such file or directory</tspan>
-<tspan x="10" y="1098"> 47.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/04 - Listen To Mouse Events.h\</tspan>
+<tspan x="10" y="1098"> 47.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/04 - Listen To Mouse Events.h\</tspan>
 <tspan x="10" y="1114">tml</tspan>
 <tspan x="10" y="1130">ls: cannot access demos/tutorial_svg/05: No such file or directory</tspan>
 <tspan x="10" y="1146">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="1162">ls: cannot access Edges: No such file or directory</tspan>
 <tspan x="10" y="1178">ls: cannot access With: No such file or directory</tspan>
 <tspan x="10" y="1194">ls: cannot access Arrows.html: No such file or directory</tspan>
-<tspan x="10" y="1210"> 48.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/05 - Edges With Arrows.html</tspan>
+<tspan x="10" y="1210"> 48.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/05 - Edges With Arrows.html</tspan>
 <tspan x="10" y="1226">ls: cannot access demos/tutorial_svg/06: No such file or directory</tspan>
 <tspan x="10" y="1242">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="1258">ls: cannot access Composite: No such file or directory</tspan>
 <tspan x="10" y="1274">ls: cannot access Nodes.html: No such file or directory</tspan>
-<tspan x="10" y="1290"> 49.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/06 - Composite Nodes.html</tspan>
+<tspan x="10" y="1290"> 49.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/06 - Composite Nodes.html</tspan>
 <tspan x="10" y="1306">ls: cannot access demos/tutorial_svg/07: No such file or directory</tspan>
 <tspan x="10" y="1322">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="1338">ls: cannot access Show: No such file or directory</tspan>
 <tspan x="10" y="1354">ls: cannot access Dual: No such file or directory</tspan>
 <tspan x="10" y="1370">ls: cannot access Links.html: No such file or directory</tspan>
-<tspan x="10" y="1386"> 50.  2017-04-21 16:51:42 +0000     2782 bytes  demos/tutorial_svg/07 - Show Dual Links.html</tspan>
-<tspan x="10" y="1402"> 51.  2017-04-21 16:51:42 +0000   197460 bytes  dist/vivagraph.js</tspan>
-<tspan x="10" y="1418"> 52.  2017-04-21 16:51:42 +0000    61827 bytes  dist/vivagraph.min.js</tspan>
-<tspan x="10" y="1434"> 53.  2017-04-21 16:51:42 +0000     3800 bytes  docs/graph_intro.md</tspan>
-<tspan x="10" y="1450"> 54.  2017-04-21 16:51:42 +0000     4800 bytes  docs/upgrade_guide.md</tspan>
-<tspan x="10" y="1466"> 55.  2017-04-21 16:51:42 +0000     1075 bytes  gulpfile.js</tspan>
-<tspan x="10" y="1482"> 56.  2017-04-21 16:51:42 +0000     2847 bytes  package.json</tspan>
-<tspan x="10" y="1498"> 57.  2017-04-21 16:51:42 +0000    19896 bytes  packages/Images/customNode.png</tspan>
-<tspan x="10" y="1514"> 58.  2017-04-21 16:51:42 +0000    14367 bytes  packages/Images/gridBad.png</tspan>
-<tspan x="10" y="1530"> 59.  2017-04-21 16:51:42 +0000     8902 bytes  packages/Images/gridGood.png</tspan>
-<tspan x="10" y="1546"> 60.  2017-04-21 16:51:42 +0000     7109 bytes  packages/Images/mingraph.png</tspan>
-<tspan x="10" y="1562"> 61.  2017-04-21 16:51:42 +0000     1041 bytes  packages/Images/pdf-icon.gif</tspan>
-<tspan x="10" y="1578"> 62.  2017-04-21 16:51:42 +0000      821 bytes  src/Algorithms/centrality.js</tspan>
-<tspan x="10" y="1594"> 63.  2017-04-21 16:51:42 +0000     1328 bytes  src/Algorithms/operations.js</tspan>
-<tspan x="10" y="1610"> 64.  2017-04-21 16:51:42 +0000     1314 bytes  src/Input/domInputManager.js</tspan>
-<tspan x="10" y="1626"> 65.  2017-04-21 16:51:42 +0000     9494 bytes  src/Input/dragndrop.js</tspan>
-<tspan x="10" y="1642"> 66.  2017-04-21 16:51:42 +0000     2053 bytes  src/Input/webglInputManager.js</tspan>
-<tspan x="10" y="1658"> 67.  2017-04-21 16:51:42 +0000     6524 bytes  src/Layout/constant.js</tspan>
-<tspan x="10" y="1674"> 68.  2017-04-21 16:51:42 +0000      857 bytes  src/Utils/backwardCompatibleEvents.js</tspan>
-<tspan x="10" y="1690"> 69.  2017-04-21 16:51:42 +0000      683 bytes  src/Utils/browserInfo.js</tspan>
-<tspan x="10" y="1706"> 70.  2017-04-21 16:51:42 +0000      408 bytes  src/Utils/documentEvents.js</tspan>
-<tspan x="10" y="1722"> 71.  2017-04-21 16:51:42 +0000      388 bytes  src/Utils/findElementPosition.js</tspan>
-<tspan x="10" y="1738"> 72.  2017-04-21 16:51:42 +0000      439 bytes  src/Utils/getDimensions.js</tspan>
-<tspan x="10" y="1754"> 73.  2017-04-21 16:51:42 +0000      381 bytes  src/Utils/intersectRect.js</tspan>
-<tspan x="10" y="1770"> 74.  2017-04-21 16:51:42 +0000      151 bytes  src/Utils/nullEvents.js</tspan>
-<tspan x="10" y="1786"> 75.  2017-04-21 16:51:42 +0000      186 bytes  src/Utils/rect.js</tspan>
-<tspan x="10" y="1802"> 76.  2017-04-21 16:51:42 +0000     2111 bytes  src/Utils/timer.js</tspan>
-<tspan x="10" y="1818"> 77.  2017-04-21 16:51:42 +0000      405 bytes  src/Utils/windowEvents.js</tspan>
-<tspan x="10" y="1834"> 78.  2017-04-21 16:51:42 +0000    13119 bytes  src/View/renderer.js</tspan>
-<tspan x="10" y="1850"> 79.  2017-04-21 16:51:42 +0000    11778 bytes  src/View/svgGraphics.js</tspan>
-<tspan x="10" y="1866"> 80.  2017-04-21 16:51:42 +0000    20306 bytes  src/View/webglGraphics.js</tspan>
-<tspan x="10" y="1882"> 81.  2017-04-21 16:51:42 +0000      693 bytes  src/WebGL/parseColor.js</tspan>
-<tspan x="10" y="1898"> 82.  2017-04-21 16:51:42 +0000      272 bytes  src/WebGL/texture.js</tspan>
-<tspan x="10" y="1914"> 83.  2017-04-21 16:51:42 +0000     3012 bytes  src/WebGL/webgl.js</tspan>
-<tspan x="10" y="1930"> 84.  2017-04-21 16:51:42 +0000     5181 bytes  src/WebGL/webglAtlas.js</tspan>
-<tspan x="10" y="1946"> 85.  2017-04-21 16:51:42 +0000      730 bytes  src/WebGL/webglImage.js</tspan>
-<tspan x="10" y="1962"> 86.  2017-04-21 16:51:42 +0000     7626 bytes  src/WebGL/webglImageNodeProgram.js</tspan>
-<tspan x="10" y="1978"> 87.  2017-04-21 16:51:42 +0000     6417 bytes  src/WebGL/webglInputEvents.js</tspan>
-<tspan x="10" y="1994"> 88.  2017-04-21 16:51:42 +0000      481 bytes  src/WebGL/webglLine.js</tspan>
-<tspan x="10" y="2010"> 89.  2017-04-21 16:51:42 +0000     5432 bytes  src/WebGL/webglLinkProgram.js</tspan>
-<tspan x="10" y="2026"> 90.  2017-04-21 16:51:42 +0000     4638 bytes  src/WebGL/webglNodeProgram.js</tspan>
-<tspan x="10" y="2042"> 91.  2017-04-21 16:51:42 +0000      555 bytes  src/WebGL/webglSquare.js</tspan>
-<tspan x="10" y="2058"> 92.  2017-04-21 16:51:42 +0000       75 bytes  src/version.js</tspan>
-<tspan x="10" y="2074"> 93.  2017-04-21 16:51:42 +0000     3366 bytes  src/viva.js</tspan>
-<tspan x="10" y="2090"> 94.  2017-04-21 16:51:42 +0000     1810 bytes  test/constantLayout.js</tspan>
-<tspan x="10" y="2106"> 95.  2017-04-21 16:51:42 +0000     1110 bytes  test/forceBasedLayout.js</tspan>
-<tspan x="10" y="2122"> 96.  2017-04-21 16:51:42 +0000     4776 bytes  test/graphConstructions.js</tspan>
-<tspan x="10" y="2138"> 97.  2017-04-21 16:51:42 +0000     1421 bytes  test/graphOperations.js</tspan>
-<tspan x="10" y="2154"> 98.  2017-04-21 16:51:42 +0000     2733 bytes  test/graphSerialization.js</tspan>
-<tspan x="10" y="2170"> 99.  2017-04-21 16:51:42 +0000     1152 bytes  test/perf/perf_test.js</tspan>
-<tspan x="10" y="2186">100.  2017-04-21 16:51:42 +0000     1502 bytes  test/perf/switch_graphs.js</tspan>
-<tspan x="10" y="2202">101.  2017-04-21 16:51:42 +0000      305 bytes  test/renderer.js</tspan>
-<tspan x="10" y="2218">102.  2017-04-21 16:51:42 +0000     2419 bytes  test/utils.js</tspan>
+<tspan x="10" y="1386"> 50.  2017-04-21 16:52:44 +0000     2782 bytes  demos/tutorial_svg/07 - Show Dual Links.html</tspan>
+<tspan x="10" y="1402"> 51.  2017-04-21 16:52:44 +0000   197460 bytes  dist/vivagraph.js</tspan>
+<tspan x="10" y="1418"> 52.  2017-04-21 16:52:44 +0000    61827 bytes  dist/vivagraph.min.js</tspan>
+<tspan x="10" y="1434"> 53.  2017-04-21 16:52:44 +0000     3800 bytes  docs/graph_intro.md</tspan>
+<tspan x="10" y="1450"> 54.  2017-04-21 16:52:44 +0000     4800 bytes  docs/upgrade_guide.md</tspan>
+<tspan x="10" y="1466"> 55.  2017-04-21 16:52:44 +0000     1075 bytes  gulpfile.js</tspan>
+<tspan x="10" y="1482"> 56.  2017-04-21 16:52:44 +0000     2847 bytes  package.json</tspan>
+<tspan x="10" y="1498"> 57.  2017-04-21 16:52:44 +0000    19896 bytes  packages/Images/customNode.png</tspan>
+<tspan x="10" y="1514"> 58.  2017-04-21 16:52:44 +0000    14367 bytes  packages/Images/gridBad.png</tspan>
+<tspan x="10" y="1530"> 59.  2017-04-21 16:52:44 +0000     8902 bytes  packages/Images/gridGood.png</tspan>
+<tspan x="10" y="1546"> 60.  2017-04-21 16:52:44 +0000     7109 bytes  packages/Images/mingraph.png</tspan>
+<tspan x="10" y="1562"> 61.  2017-04-21 16:52:44 +0000     1041 bytes  packages/Images/pdf-icon.gif</tspan>
+<tspan x="10" y="1578"> 62.  2017-04-21 16:52:44 +0000      821 bytes  src/Algorithms/centrality.js</tspan>
+<tspan x="10" y="1594"> 63.  2017-04-21 16:52:44 +0000     1328 bytes  src/Algorithms/operations.js</tspan>
+<tspan x="10" y="1610"> 64.  2017-04-21 16:52:44 +0000     1314 bytes  src/Input/domInputManager.js</tspan>
+<tspan x="10" y="1626"> 65.  2017-04-21 16:52:44 +0000     9494 bytes  src/Input/dragndrop.js</tspan>
+<tspan x="10" y="1642"> 66.  2017-04-21 16:52:44 +0000     2053 bytes  src/Input/webglInputManager.js</tspan>
+<tspan x="10" y="1658"> 67.  2017-04-21 16:52:44 +0000     6524 bytes  src/Layout/constant.js</tspan>
+<tspan x="10" y="1674"> 68.  2017-04-21 16:52:44 +0000      857 bytes  src/Utils/backwardCompatibleEvents.js</tspan>
+<tspan x="10" y="1690"> 69.  2017-04-21 16:52:44 +0000      683 bytes  src/Utils/browserInfo.js</tspan>
+<tspan x="10" y="1706"> 70.  2017-04-21 16:52:44 +0000      408 bytes  src/Utils/documentEvents.js</tspan>
+<tspan x="10" y="1722"> 71.  2017-04-21 16:52:44 +0000      388 bytes  src/Utils/findElementPosition.js</tspan>
+<tspan x="10" y="1738"> 72.  2017-04-21 16:52:44 +0000      439 bytes  src/Utils/getDimensions.js</tspan>
+<tspan x="10" y="1754"> 73.  2017-04-21 16:52:44 +0000      381 bytes  src/Utils/intersectRect.js</tspan>
+<tspan x="10" y="1770"> 74.  2017-04-21 16:52:44 +0000      151 bytes  src/Utils/nullEvents.js</tspan>
+<tspan x="10" y="1786"> 75.  2017-04-21 16:52:44 +0000      186 bytes  src/Utils/rect.js</tspan>
+<tspan x="10" y="1802"> 76.  2017-04-21 16:52:44 +0000     2111 bytes  src/Utils/timer.js</tspan>
+<tspan x="10" y="1818"> 77.  2017-04-21 16:52:44 +0000      405 bytes  src/Utils/windowEvents.js</tspan>
+<tspan x="10" y="1834"> 78.  2017-04-21 16:52:44 +0000    13119 bytes  src/View/renderer.js</tspan>
+<tspan x="10" y="1850"> 79.  2017-04-21 16:52:44 +0000    11778 bytes  src/View/svgGraphics.js</tspan>
+<tspan x="10" y="1866"> 80.  2017-04-21 16:52:44 +0000    20306 bytes  src/View/webglGraphics.js</tspan>
+<tspan x="10" y="1882"> 81.  2017-04-21 16:52:44 +0000      693 bytes  src/WebGL/parseColor.js</tspan>
+<tspan x="10" y="1898"> 82.  2017-04-21 16:52:44 +0000      272 bytes  src/WebGL/texture.js</tspan>
+<tspan x="10" y="1914"> 83.  2017-04-21 16:52:44 +0000     3012 bytes  src/WebGL/webgl.js</tspan>
+<tspan x="10" y="1930"> 84.  2017-04-21 16:52:44 +0000     5181 bytes  src/WebGL/webglAtlas.js</tspan>
+<tspan x="10" y="1946"> 85.  2017-04-21 16:52:44 +0000      730 bytes  src/WebGL/webglImage.js</tspan>
+<tspan x="10" y="1962"> 86.  2017-04-21 16:52:44 +0000     7626 bytes  src/WebGL/webglImageNodeProgram.js</tspan>
+<tspan x="10" y="1978"> 87.  2017-04-21 16:52:44 +0000     6417 bytes  src/WebGL/webglInputEvents.js</tspan>
+<tspan x="10" y="1994"> 88.  2017-04-21 16:52:44 +0000      481 bytes  src/WebGL/webglLine.js</tspan>
+<tspan x="10" y="2010"> 89.  2017-04-21 16:52:44 +0000     5432 bytes  src/WebGL/webglLinkProgram.js</tspan>
+<tspan x="10" y="2026"> 90.  2017-04-21 16:52:44 +0000     4638 bytes  src/WebGL/webglNodeProgram.js</tspan>
+<tspan x="10" y="2042"> 91.  2017-04-21 16:52:44 +0000      555 bytes  src/WebGL/webglSquare.js</tspan>
+<tspan x="10" y="2058"> 92.  2017-04-21 16:52:44 +0000       75 bytes  src/version.js</tspan>
+<tspan x="10" y="2074"> 93.  2017-04-21 16:52:44 +0000     3366 bytes  src/viva.js</tspan>
+<tspan x="10" y="2090"> 94.  2017-04-21 16:52:44 +0000     1810 bytes  test/constantLayout.js</tspan>
+<tspan x="10" y="2106"> 95.  2017-04-21 16:52:44 +0000     1110 bytes  test/forceBasedLayout.js</tspan>
+<tspan x="10" y="2122"> 96.  2017-04-21 16:52:44 +0000     4776 bytes  test/graphConstructions.js</tspan>
+<tspan x="10" y="2138"> 97.  2017-04-21 16:52:44 +0000     1421 bytes  test/graphOperations.js</tspan>
+<tspan x="10" y="2154"> 98.  2017-04-21 16:52:44 +0000     2733 bytes  test/graphSerialization.js</tspan>
+<tspan x="10" y="2170"> 99.  2017-04-21 16:52:44 +0000     1152 bytes  test/perf/perf_test.js</tspan>
+<tspan x="10" y="2186">100.  2017-04-21 16:52:44 +0000     1502 bytes  test/perf/switch_graphs.js</tspan>
+<tspan x="10" y="2202">101.  2017-04-21 16:52:44 +0000      305 bytes  test/renderer.js</tspan>
+<tspan x="10" y="2218">102.  2017-04-21 16:52:44 +0000     2419 bytes  test/utils.js</tspan>
 </text>
 </svg>
